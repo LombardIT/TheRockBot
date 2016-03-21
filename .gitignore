@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# various
+.DS_Store
+test.py
+*.db
+*.ini
