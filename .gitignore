@@ -16,3 +16,4 @@ pip-delete-this-directory.txt
 test.py
 *.db
 *.ini
+exclude.txt
